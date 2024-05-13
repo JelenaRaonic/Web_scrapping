@@ -5,6 +5,7 @@
 This is full web-scraping and data analysis project and it consists of two parts.
 
 #### Part 1: Scrape titles and preview text from Mars news articles.
+Inspect the page to identify which elements to scrape. Extract the titles and preview text of the news articles that is scraped. Store the scraping results in Python data structures and store the scraped data in a JSON file.
 
 #### Part 2: Scrape and analyze Mars weather data, which exists in a table.
 
