@@ -5,7 +5,7 @@
 This is web-scraping and data analysis project and it consists of two parts.
 
 #### Part 1: Scrape titles and preview text from Mars news articles.
-Inspect the page to identify which elements to scrape. Extract the titles and preview text of the news articles that is scraped. Store the scraping results in Python data structures and store the scraped data in a JSON file.
+Inspect the page to identify which elements to scrape. Extract the titles and preview text of the news articles that is scraped. Store the scraping results in Python data structures and store the scraped data in a result.txt file.
 
 #### Part 2: Scrape and analyze Mars weather data.
 Inspect the page to identify which elements to scrape.Assemble the scraped data into a Pandas DataFrame. The columns should have the same headings as the table on the website.Examine the data types that are currently associated with each column(when necessary convert).Analyze dataset by using Pandas functions to answer questions:
@@ -20,4 +20,4 @@ Inspect the page to identify which elements to scrape.Assemble the scraped data 
 
 5.How many terrestrial (Earth) days exist in a Martian year?
 
-Last, export the DataFrame to a CSV file.
+Last, export the DataFrame to a export-df.csv file.
