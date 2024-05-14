@@ -20,4 +20,4 @@ Inspect the page to identify which elements to scrape.Assemble the scraped data 
 
 5.How many terrestrial (Earth) days exist in a Martian year?
 
-Last, export the DataFrame to a export-df.csv file.
+Last, export the DataFrame to a exported-df.csv file.
